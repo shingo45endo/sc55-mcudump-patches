@@ -40,6 +40,7 @@ Patches
 | [sc-55_v121_mod.bdf](./patches/sc-55_v121_mod.bdf)       | SC-55 Ver.1.21     | `effc6132d68f7e300aaef915ccdd08aba93606c22d23e580daf9ea6617913af1` |
 | [sc-55_v200_mod.bdf](./patches/sc-55_v200_mod.bdf)       | SC-55 Ver.2.00     | `f5dac35d450ab986570a209dff3816eec75cee669e161f54b51224b467dd0bcc` |
 | [sc-55mk2_v101_mod.bdf](./patches/sc-55mk2_v101_mod.bdf) | SC-55mkII Ver.1.01 | `a4c9fd821059054c7e7681d61f49ce6f42ed2fe407a7ec1ba0dfdc9722582ce0` |
+| [sc-55st_v100_mod.bdf](./patches/sc-55st_v100_mod.bdf)   | SC-55ST/SC-55K Ver.1.00 | `03517ac0a3b1ad8b69a1a4ee045e0c21da0170027bd1ba1bd3cf72cd017bbe6a` |
 
 
 License
